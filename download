@@ -1,0 +1,8 @@
+# Generated reports
+system-health-report.txt
+*.log
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
